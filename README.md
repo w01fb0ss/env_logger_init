@@ -10,8 +10,6 @@
 2. 
 
 ```rust
-use env_logger_init;
-
 #[macro_use]
 extern crate log;
 
